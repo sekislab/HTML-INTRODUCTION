@@ -1,0 +1,49 @@
+<kbd> Used for keyboard input. This is different from form element text input.
+
+<keygen> Used for authentication with a security certificate.
+
+<label> For assigning labels to interface elements such as forms.
+
+<legend> Useful for making forms easier to understand.
+
+<li> This represents a list item with an <ol> (ordered list) or <ul> (unordered list).
+
+<ol> Ordered list (1. 2. 3.). Use with list item <li>.
+
+<optgroup> For grouping objects.
+
+<option> Used within the <select> tag to specify an option.
+
+<output> Displays the output of an action, such as from a script or form.
+
+<p> Paragraph. Enclose paragraphs in an article within <p> tags.
+
+<param> Use when parameters need to be passed to an object embedded within the document.
+
+<pre> For preformatted text. This can be useful for demonstrating code, especially if there are multiple lines.
+
+<progress> Display the progress of an action, such as with a script.
+
+<q> Quote from some source.
+
+<rb> For Ruby annotations.
+
+<rp> Specify text to be displayed when Ruby annotations are not supported by the browser.
+
+<rt> Text component of a Ruby annotation.
+
+<rtc> Ruby Text Container.
+
+<ruby> Also used for Ruby annotation.
+
+<s> For marking up text that is not longer relevant, applicable, or accurate.
+
+<samp> Sample output one might get from a particular computer program.
+
+<script> Scripts inside of an HTML document are enclosed in the script tags.
+
+<section> A nonspecific means of breaking up content within a webpage into sections.
+
+<select> Used with <option> for selecting a particular option.
+
+<small> Typically used for small print. Useful for comments within the main content.
